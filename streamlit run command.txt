@@ -1,0 +1,1 @@
+streamlit run "C:\Users\malti\Downloads\girl hackathon\Medical Assistant Web\Medical Assistant Model.py"
